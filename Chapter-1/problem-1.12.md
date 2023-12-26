@@ -9,11 +9,13 @@ Decription equation:
 $$d_k\left( y \right)=x ≡\ a^{-1}\ \ .\ y-b\mod 30$$
 
 With the key: k=(a,b)
+
 **2.How large is the key space of the affine cipher for this alphabet?**
 As we know that an element a and the modulus must be relatively prime for the inverse of a to exist.Thus, a must be in the set: a ∈ {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28}
 
 As we have 29 letters as b, and 30 elements in the set a, the key space is:
 28x30= 840
+
 **3.The following cipher text was encrypted using the key (a=17,b=1). What is the corresponding plain text?**
 
 **a u ß w ß**

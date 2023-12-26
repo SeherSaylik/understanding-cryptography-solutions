@@ -1,9 +1,13 @@
 **1.9. Compute x as far as possible without a calculator. Where appropriate, make use of a smart decomposition of the exponent as shown in the example in Sect. 1.4.1:**
+
 **1. x = 3^2 mod 13** = the answer can be found easily as **9**.
+
 **2. x = 7^2 mod 13** = the answer can be found easily as **10**.
+
 **3. x = 3^10 mod 13**
    3x3x3 = 3^3 = 27 and 27 mod 13 = 1.
    3^3 x 3^3 x 3^3 x 3 mod 13 = 1x1x1x3= **3**
+   
 **4. x = 7^100 mod 13**
  To solve this question, we need to find a pattern that gives '1' as a result to easy the solution.
    7x7x7 mod 13 = 5 

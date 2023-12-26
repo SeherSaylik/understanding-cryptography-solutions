@@ -1,6 +1,8 @@
 **1.11. This problem deals with the affine cipher with the key parameters a = 7, b =22.**
+
  **1. Decrypt the text below:**
  **falszztysyjzyjkywjrztyjztyynaryjkyswarztyegyyj**
+ 
 The affine cipher is a type of monoalphabetic substitution cipher, where each letter in an alphabet is mapped to its numeric equivalent, encrypted using a simple mathematical function, and converted back to a letter.
 
 In the given problem, the key parameters are a=7 and b=22. The alphabet size is typically 26 for English letters.
